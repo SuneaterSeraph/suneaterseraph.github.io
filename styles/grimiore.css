@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --dpurple: #420039;
+    --auburn: #ad1f2d;
+    --persian: #4838bc;
+    --rblack: #060510;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+html, body {
+    color: white;
+    height: 100%;
+    background: rgb(66,0,57);
+    background: linear-gradient(147deg, rgba(66,0,57,1) 0%, rgba(72,56,188,1) 100%); 
+    overflow: hidden;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Castoro Titling', cursive;
+}
+p {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: large;
+}
+a, a:hover, a:visited, a:active {
+    color: var(--auburn);
+    text-decoration: none;
+}
+
+.container {
+    width: 50%;
+    height: 90%;
+    background-color: var(--rblack);
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+}
+.heading {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 95%;
+    margin-top: 20px;
+    height: fit-content;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Castoro Titling', cursive;
+    border-bottom: 1px solid var(--persian);
+}
+.heading h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Castoro Titling', cursive;
+    color: var(--persian);
+}
+
+.basicinfo {
+    position: absolute;
+    top: 170px;
+}
+.basicinfo h2 {
+    text-align: center;
+    padding-bottom: 10px;
+    color: var(--persian);
+}
+.container-sp {
+    position: absolute;
+    top: 300px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+.projects {
+    padding: 20px;
+}
+.projects h2 {
+    text-align: center;
+    padding-bottom: 10px;
+    color: var(--persian);
+}
+
+/* LIST OF SOCIALS */
+.socials {
+    position: relative;
+    top: 130px;
+    height: fit-content;
+    user-select: none;
+}
+.social-icon {
+    padding-right: 5px;
+}
+.social-link{
+    border: 1px solid;
+    border-radius: 40px;
+    padding: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: padding 0.2s, background-color 0.2s;
+}
+.social-link:hover {
+    color: var(--rblack);
+    padding: 8px;
+    font-size: 19px;
+    transition: padding 0.2s, background-color 0.2s;
+}
+
+a.twitter, a.twitter a:visited, a.twitter a:active {
+    color: #1DA1F2;
+    border-color: #1DA1F2;
+}
+a.twitter:hover {
+    background-color: #1DA1F2;
+}
+
+a.discord, a.discord a:visited, a.discord a:active {
+    color: #5865F2;
+    border-color: #5865F2;
+}
+a.discord:hover {
+    background-color: #5865F2;
+}
+
+a.instagram, a.instagram a:visited, a.instagram a:active {
+    color: #C13584;
+    border-color: #C13584;
+}
+a.instagram:hover {
+    background-color: #C13584;
+}
+
+a.twitch, a.twitch a:visited, a.twitch a:active {
+    color: #9146FF;
+    border-color: #9146FF;
+}
+a.twitch:hover {
+    background-color: #9146FF;
+}
+
+a.steam, a.steam a:visited, a.steam a:active {
+    color: #c7d5e0;
+    border-color: #c7d5e0;
+}
+a.steam:hover {
+    background-color: #c7d5e0;
+}
+
+/* FOOTER */
+footer {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+footer img {
+    position: sticky;
+    width: 40rem;
+    bottom: 0; 
+}
+
+/* TOOLTIP */
+[data-tooltip] {
+    position: relative;
+    cursor: pointer;
+  }
+  [data-tooltip]:before,
+  [data-tooltip]:after {
+    line-height: 1;
+    font-size: .9em;
+    pointer-events: none;
+    position: absolute;
+    box-sizing: border-box;
+    display: none;
+    opacity: 0;
+  }
+  [data-tooltip]:before {
+    content: "";
+    border: 5px solid transparent;
+    z-index: 100;
+  }
+  [data-tooltip]:after {
+    content: attr(data-tooltip);
+    text-align: center;
+    min-width: 3em;
+    max-width: 21em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 6px 8px;
+    border-radius: 3px;
+    background: #4838bc;
+    color: #FFFFFF;
+    z-index: 99;
+  }
+  [data-tooltip]:hover:before,
+  [data-tooltip]:hover:after {
+    display: block;
+    opacity: 1;
+  }
+  [data-tooltip]:not([data-flow])::before,
+  [data-tooltip][data-flow="top"]::before {
+    bottom: 100%;
+    border-bottom-width: 0;
+    border-top-color: #4838bc;
+  }
+  [data-tooltip]:not([data-flow])::after,
+  [data-tooltip][data-flow="top"]::after {
+    bottom: calc(100% + 5px);
+  }
+  [data-tooltip]:not([data-flow])::before, [tooltip]:not([data-flow])::after,
+  [data-tooltip][data-flow="top"]::before,
+  [data-tooltip][data-flow="top"]::after {
+    left: 50%;
+    -webkit-transform: translate(-50%, -4px);
+            transform: translate(-50%, -4px);
+  }
+  [data-tooltip][data-flow="bottom"]::before {
+    top: 100%;
+    border-top-width: 0;
+    border-bottom-color: #4838bc;
+  }
+  [data-tooltip][data-flow="bottom"]::after {
+    top: calc(100% + 5px);
+  }
+  [data-tooltip][data-flow="bottom"]::before, [data-tooltip][data-flow="bottom"]::after {
+    left: 50%;
+    -webkit-transform: translate(-50%, 8px);
+            transform: translate(-50%, 8px);
+  }
+  [data-tooltip][data-flow="left"]::before {
+    top: 50%;
+    border-right-width: 0;
+    border-left-color: #4838bc;
+    left: calc(0em - 5px);
+    -webkit-transform: translate(-8px, -50%);
+            transform: translate(-8px, -50%);
+  }
+  [data-tooltip][data-flow="left"]::after {
+    top: 50%;
+    right: calc(100% + 5px);
+    -webkit-transform: translate(-8px, -50%);
+            transform: translate(-8px, -50%);
+  }
+  [data-tooltip][data-flow="right"]::before {
+    top: 50%;
+    border-left-width: 0;
+    border-right-color: #4838bc;
+    right: calc(0em - 5px);
+    -webkit-transform: translate(8px, -50%);
+            transform: translate(8px, -50%);
+  }
+  [data-tooltip][data-flow="right"]::after {
+    top: 50%;
+    left: calc(100% + 5px);
+    -webkit-transform: translate(8px, -50%);
+            transform: translate(8px, -50%);
+  }
+  [data-tooltip=""]::after, [data-tooltip=""]::before {
+    display: none !important;
+  }
+  
