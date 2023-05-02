@@ -5,7 +5,7 @@ permalink: wiki/articles/characters/side/silas-groves
 # SILAS GROVES
 <span class="version">2.4.1</span><span class="faction">UNALIGNED</span> 
 
-Son of John Groves, Silas came into Facility attention when he attempted to invade us for the purpose of killing [Seraph](../Seraph, the Sun Eater). This of course failed. While he appears to be a man of faith, Silas has used less-than-holy enhancements to his armor and weaponry.
+Son of John Groves, Silas came into Facility attention when he attempted to invade us for the purpose of killing [Seraph]({{ "/wiki/articles/img/difer.png" | relative_url }}). This of course failed. While he appears to be a man of faith, Silas has used less-than-holy enhancements to his armor and weaponry.
 ## APPEARANCE
 The only recorded instance of Silas, he wore a gilded set of full plate armor made of an unknown metal, along with a sword that had red cracks in it.
 ## ORIGIN

@@ -9,7 +9,7 @@ A robot sent from the future to stop Earth’s sun from disappearing. Difer foun
 ## APPEARANCE
 Over the years since the creation of the IFD, Difer has created various different frames all with their own unique appearances. One thing is always the same however, a large pink gem resides around where the heart would be, modeled after her core that is in the deep reaches of the facility.
 
-![Headshot of Difer's latest frame, Version 8.]({{ "articles/img/difer.png" | relative_url }})
+![Headshot of Difer's latest frame, Version 8.](/articles/img/difer.png)
 ## ORIGIN
 
 ## PSYCHOLOGICAL REPORT
@@ -22,4 +22,4 @@ DIFERIUM
 
 Robot
 
-Little Robot (By [Seraph](/articles/characters/main/seraph))
+Little Robot (By [Seraph](/wiki/articles/characters/main/seraph))

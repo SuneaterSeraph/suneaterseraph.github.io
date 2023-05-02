@@ -15,9 +15,9 @@ permalink: wiki/articles/factions/harki
 ><br class="blockbreak">
 >**I**nitiative
 
-The Stellar Virtues as they call themselves, is a cult dedicated to [Seraph](/articles/characters/main/seraph). They are considered on the forefront of occult research and information, and chances are if you have entered that world, you will know of HARKI. Little beyond that in known, it's theorized that their base of operations is a whole separate dimension consisting of a massive library.
+The Stellar Virtues as they call themselves, is a cult dedicated to [Seraph](/wiki/articles/characters/main/seraph). They are considered on the forefront of occult research and information, and chances are if you have entered that world, you will know of HARKI. Little beyond that in known, it's theorized that their base of operations is a whole separate dimension consisting of a massive library.
 ## ORIGINS
-[Seraph](/articles/characters/main/seraph) is the only testament to their origin currently available, she says she formed HARKI for the sole purpose of "passive information collection".
+[Seraph](/wiki/articles/characters/main/seraph) is the only testament to their origin currently available, she says she formed HARKI for the sole purpose of "passive information collection".
 ## TERMINOLOGY
 #### Main
 
