@@ -1,6 +1,6 @@
 ---
 title: "NAME"
-permalink: /
+permalink: /wiki/articles/extended-lore/char/CHARACTERNAME
 ---
 # NAME
 <span class="version"> Version 0.0.0</span><span class="faction">FACTION</span> 

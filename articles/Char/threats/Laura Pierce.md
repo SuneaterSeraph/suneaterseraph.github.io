@@ -5,7 +5,7 @@ permalink: wiki/articles/characters/side/laura-pierce
 # LAURA PIERCE
 <span class="version"> 0.2.7</span><span class="faction">CARPO</span> 
 
-Laura works as a head of investigations (or a Sergeant if you use their own rank titles) inside of [CARPO](/wiki/articles/factions/carpo). Her and [Seraph](/wiki/articles/characters/main/seraph) have a symbiotic relationship, where Laura will deliver CARPO secrets in turn for assistance on the job.
+Laura works as a head of investigations (or a Sergeant if you use their own rank titles) inside of [CARPO](/wiki/articles/factions/carpo). Her and [Seraph](/wiki/articles/characters/pantheon/seraph) have a symbiotic relationship, where Laura will deliver CARPO secrets in turn for assistance on the job.
 ## APPEARANCE
 
 ## ORIGIN

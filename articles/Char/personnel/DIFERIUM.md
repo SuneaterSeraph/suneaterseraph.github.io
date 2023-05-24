@@ -1,6 +1,6 @@
 ---
 title: "DIFERIUM"
-permalink: wiki/articles/characters/main/difer
+permalink: wiki/articles/characters/personnel/difer
 ---
 # DIFERIUM
 <span class="version">8.0.3</span> 
@@ -22,4 +22,4 @@ DIFERIUM
 
 Robot
 
-Little Robot (By [Seraph](/wiki/articles/characters/main/seraph))
+Little Robot (By [Seraph](/wiki/articles/characters/pantheon/seraph))

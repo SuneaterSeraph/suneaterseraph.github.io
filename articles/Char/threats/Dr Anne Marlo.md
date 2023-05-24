@@ -3,7 +3,7 @@ title: "DR ANNE MARLO"
 permalink: wiki/articles/characters/side/marlo
 ---
 # DR. ANNE MARLO
-<span class="version">0.0.1</span> 
+<span class="version">0.0.1</span><span class="faction">MAROA</span>  
 
 ## APPEARANCE
 

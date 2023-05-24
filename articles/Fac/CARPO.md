@@ -88,6 +88,9 @@ A total of 3 figures where able to be contained by the civilian population. All 
 | Last Breath (LBs)           | Last Breaths are devices similar in shape to a flashlight, all of them are iterations of Object 652. On the bottom of the cylinders there exist a small cable with a crab like mechanical contraption at the tip of said cable. Upon letting the cable crawl inside of a corpse, the LB will begin displaying a projection of the Last Breaths from the dead individual.                                                                                                           |
 | Aurora's Rivets                            |    Metal spikes with a rainbow coloration to their tips. When placed in a triangular fashion around a being or object, it creates a shield similar in nature to an Aurora Borealis. This shield can be broken by high level Objects.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
+## Known Members
++ [Laura Pierce](/wiki/articles/characters/side/laura-pierce)
+
 ## ALIASES
 
 

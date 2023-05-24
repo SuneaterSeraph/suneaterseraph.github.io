@@ -3,12 +3,14 @@ title: "FACTION NAME"
 permalink
 ---
 # NAME
-<p class="version">0.0.0</p><span class="faction">FACTION</span> 
+<span class="version"> Version 0.0.0</span><span class="faction">FACTION</span> 
 (1 space required here)
 
 ## ORIGINS
 
 ## TERMINOLOGY
+
+## Known Members
 
 ## ALIASES
 (Requires 1 space between each)
